@@ -2,7 +2,7 @@
   "name": "bis2arch-dev-tools",
   "displayName": "Bis2arch Dev tools",
   "description": "Tools and extensions for bis2bis development team",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "bis2bis",
   "icon": "resources/logo.jpeg",
   "repository": {
