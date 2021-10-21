@@ -1,51 +1,51 @@
 {
-    "name": "bis2arch-dev-tools",
-    "displayName": "Bis2arch Dev tools",
-    "description": "Tools and extensions for bis2bis development team",
-    "version": "0.0.1",
-    "publisher": "bis2bis",
-    "icon": "resources/logo.jpeg",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/bis2arch/vscode-extension"
-    },
-    "bugs": {
-        "url": "https://github.com/bis2arch/vscode-extension/issues"
-    },
-    "engines": {
-        "vscode": "^1.61.0"
-    },
-    "galleryBanner": {
-        "color": "#f1f1f1",
-        "theme": "light"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [
-        "formulahendry.auto-close-tag",
-        "formulahendry.auto-complete-tag",
-        "formulahendry.auto-rename-tag",
-        "editorconfig.editorconfig",
-        "christian-kohler.path-intellisense",
-        "oderwat.indent-rainbow",
-        "visualstudioexptteam.vscodeintellicode",
-        "pkief.material-icon-theme",
-        "steoates.autoimport",
-        "dotjoshjohnson.xml",
-        "bmewburn.vscode-intelephense-client",
-        "felixfbecker.php-debug",
-        "neilbrayfield.php-docblocker",
-        "phproberto.vscode-php-getters-setters",
-        "sibiraj-s.vscode-scss-formatter",
-        "jcbuisson.vue",
-        "eamodio.gitlens",
-        "octref.vetur",
-        "ikappas.phpcs",
-        "kamikillerto.vscode-colorize",
-        "coenraads.bracket-pair-colorizer",
-        "aaron-bond.better-comments",
-        "alefragnani.project-manager",
-        "MadsKristensen.TrailingWhitespaceVisualizer"
-    ]
+  "name": "bis2arch-dev-tools",
+  "displayName": "Bis2arch Dev tools",
+  "description": "Tools and extensions for bis2bis development team",
+  "version": "0.0.1",
+  "publisher": "bis2bis",
+  "icon": "resources/logo.jpeg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bis2arch/vscode-extension"
+  },
+  "bugs": {
+    "url": "https://github.com/bis2arch/vscode-extension/issues"
+  },
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "galleryBanner": {
+    "color": "#f1f1f1",
+    "theme": "light"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-complete-tag",
+    "formulahendry.auto-rename-tag",
+    "editorconfig.editorconfig",
+    "christian-kohler.path-intellisense",
+    "oderwat.indent-rainbow",
+    "visualstudioexptteam.vscodeintellicode",
+    "pkief.material-icon-theme",
+    "steoates.autoimport",
+    "dotjoshjohnson.xml",
+    "bmewburn.vscode-intelephense-client",
+    "felixfbecker.php-debug",
+    "neilbrayfield.php-docblocker",
+    "phproberto.vscode-php-getters-setters",
+    "sibiraj-s.vscode-scss-formatter",
+    "jcbuisson.vue",
+    "eamodio.gitlens",
+    "octref.vetur",
+    "ikappas.phpcs",
+    "kamikillerto.vscode-colorize",
+    "coenraads.bracket-pair-colorizer",
+    "aaron-bond.better-comments",
+    "alefragnani.project-manager",
+    "MadsKristensen.TrailingWhitespaceVisualizer"
+  ]
 }
