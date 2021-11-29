@@ -2,7 +2,7 @@
   "name": "bis2arch-dev-tools",
   "displayName": "Bis2arch Dev tools",
   "description": "Tools and extensions for bis2bis development team",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "bis2bis",
   "icon": "resources/logo.jpeg",
   "repository": {
@@ -13,7 +13,7 @@
     "url": "https://github.com/bis2arch/vscode-extension/issues"
   },
   "engines": {
-    "vscode": "^1.61.0"
+    "vscode": "*"
   },
   "galleryBanner": {
     "color": "#f1f1f1",
